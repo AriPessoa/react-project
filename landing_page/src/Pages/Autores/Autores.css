@@ -1,0 +1,30 @@
+.bodyAutores{
+    /* background-color: #fdff64; */
+    /* background-color: #EE3769; */
+    /* background-color: #F5C199; */
+    /* background-color: #CD6A81; */
+    background-color: #f5f5f5;
+    display: grid;
+    /* color: #ffff; */
+    color: #ffff;
+}
+.cardTabela{
+    width: auto;
+    margin-bottom: 12%;
+    margin-left: 6%;
+    margin-right: 6%;
+    /* background-color: #ABE3C8 !important; */
+    background-color: #ffffff;
+}
+
+.grid-autores{
+    margin-top: 4% !important;
+}
+
+.GridSize{
+    width: calc(100%) !important;
+}
+
+.AutoresText{
+    color: #e78698;
+}

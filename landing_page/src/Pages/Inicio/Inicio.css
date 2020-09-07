@@ -1,0 +1,34 @@
+.bodyInicio{
+    /* background-color: rgb(152, 232, 79); */
+    /* background-color: #fff; */
+    background-image: url('../../images/fundo1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: grid;
+    height: -webkit-fill-available;
+}
+.typography{
+    color: #CD6A81;
+    /* #E73B32; */
+    text-align: center;
+}
+.cardMedia{
+    /* height: 140; */
+    padding-top: 15%;
+    background-color: #ABE3C8;
+}
+.cardMediaRosa{
+    padding-top: 15%;
+    background-color: #CD6A81;
+}
+.Card{
+    /* width: 20% !important; */
+    /* max-height: 200 !important; */
+}
+.divCard{
+    center: 0;
+}
+
+.GridSize{
+    width: calc(100%) !important;
+}

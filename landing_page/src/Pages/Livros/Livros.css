@@ -1,0 +1,34 @@
+.bodyLivros{
+    /* background-color: #9affcc; */
+    /* background-color: #3B9CFF; */
+    /* background-color: #ABE3C8; */
+    /* background-color: #967293; */
+    /* background-color: #e78698; */
+    background-color: #3186a8;
+    display: grid;
+    color: #fff;
+}
+.typography-livros{
+    /* color: #fff; */
+    color: #fff;
+    text-align: center;
+}
+.cardTabelaLivros{
+    width: auto;
+    margin-bottom: 12%;
+    margin-left: 6%;
+    margin-right: 6%;
+    /* background-color: #CD6A81 !important; */
+}
+.grid-livros{
+    margin-top: 4% !important;
+}
+
+::ng-deep .MuiTableCell-root{
+    text-align: center;
+    border-bottom: 1px solid #ffffff;
+}
+
+.GridSize{
+    width: calc(100%) !important;
+}
